@@ -1,0 +1,12 @@
+#main-header { 
+    padding: 40px 50px;
+    background-color: white;
+    position: fixed;
+    width: 1000px;
+    top: 0;
+ }
+.master-title {
+    font-size: 30px; 
+    color: #181818;
+    text-align: center;
+}

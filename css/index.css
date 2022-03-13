@@ -1,0 +1,10 @@
+#container{
+    width: 1000px;
+    margin: 20px auto;
+}
+h1{
+    text-align: center;
+}
+#content{
+    margin-top: 160px;
+}

@@ -1,0 +1,25 @@
+* { 
+    margin: 0; padding: 0;
+    font-family: '맑은 고딕', 'Malgun Gothic', Gothic, sans-serif;
+}
+a { text-decoration: none; }
+li { list-style: none; }
+
+body {
+    width: 1200px; margin: 0 auto;
+    background: white;
+}
+
+#page-wrapper {
+    background-color: white;
+    margin: 0 0; padding: 10px 20px;
+}
+table {
+    border-collapse: collapse;
+    margin:0px auto;
+}
+th, tr, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
